@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    background-color:grey;
+}
+.container{
+   width:350px;
+   height:800;
+   border:2px solid black;
+   border-radius: 10px;
+   background-color: aliceblue;
+   box-shadow: 2px;
+   padding:30px;
+}
+#signup{
+    width:80px;
+    height:40px;
+    border-radius: 3px;
+    justify-content: space-between;
+}
+#signup:hover{
+    background:green;
+    font-size: 15px;
+    cursor:pointer;
+    color:white;
+}
+button{
+    width:80px;
+    height:40px;
+    border-radius:3px;
+    justify-content: space-between;
+}
+button:hover{
+    color:white;
+    cursor:pointer;
+    font-size:15px;
+    background: green;
+}
+input{
+    width:190px;
+    height:30px;
+}
+
+
